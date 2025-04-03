@@ -1,8 +1,8 @@
-# WebScraping-Restaurants
+# WebScraping-Restaurants : School project
 
 Français:
 
-Dans le main, nous avons placé nos trois code, ainsi que le fichier excel regroupant les fruits et légumes et la heatMap montrant leurs répartition durant l'année.
+Dans main, nous avons placé nos trois code, ainsi que le fichier excel regroupant les fruits et légumes et la heatMap montrant leurs répartition durant l'année.
 Nous avnos chacun effectué des scraps du site OpenTable: 
 - Adèle a scrappé le site de greenpeace pour obtenir un excel de fruits et légumes et à cmmencé à récupérer les menus des restaurants pour avoir leur compositions
 - Alexandre se concentre sur la récupération des prix, revues, et adresse des restaurants par scrapping
@@ -10,7 +10,7 @@ Nous avnos chacun effectué des scraps du site OpenTable:
 
 English:
 
-In the main, we have placed our three codes, as well as the excel file containing the fruit and vegetables and the heatMap showing their distribution over the year.
+In main, we have placed our three codes, as well as the excel file containing the fruit and vegetables and the heatMap showing their distribution over the year.
 We each scrapped the OpenTable website: 
 - Adèle scrapped the greenpeace site to get an excel of fruits and vegetables and started to get the menus of the restaurants to get their compositions.
 - Alexandre is concentrating on getting prices, reviews and restaurant addresses by scrapping the website
